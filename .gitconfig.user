@@ -1,0 +1,10 @@
+[user]
+  name = Mike Johnson
+  email = mikerjohnson27unh@gmail.com
+  signingkey = mikerjohnson27unh@gmail.com
+
+[commit]
+  gpgsign = true
+
+[tag]
+  gpgSign = true
